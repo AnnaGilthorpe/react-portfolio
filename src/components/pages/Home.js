@@ -1,10 +1,9 @@
 import React from "react";
-import './Home.css'
 
 function Home() {
   return (
     <div>
-      <h1>Anna Gilthorpe // Website Developer</h1>
+      <h1>Home Page</h1>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque velit, lobortis ut magna
         varius, blandit rhoncus sem. Morbi lacinia nisi ac dui fermentum, sed luctus urna tincidunt.

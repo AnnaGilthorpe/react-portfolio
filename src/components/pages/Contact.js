@@ -1,7 +1,6 @@
 import React from 'react';
 import { Link, Route, Routes } from 'react-router-dom';
-import Learn from '../Learn';
-import './Contact.css'
+import Learn from './Learn';
 
 function Contact(props) {
   return (
